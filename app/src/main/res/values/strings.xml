@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PruebaFragmento</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="three_fragment_label">Three Fragment</string>
+    <string name="four_fragment_label">Four Fragment</string>
+    <string name="question_text">¿Que nakama soy?</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="BnTrivia">
+        Hola, Bienvenido a la trivia de los Nakamas.
+    </string>
+
+    <string name="Incorrect_Answer">Bueno, no eres tan amigo del rey de los piratas.
+    </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
